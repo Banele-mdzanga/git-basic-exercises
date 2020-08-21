@@ -1,9 +1,12 @@
-# Git basic exercises
 <<<<<<< HEAD
+# Git basic exercises
 - first commit.
 - second commit.
 - third commit .
 =======
->>>>>>> milkshake-flavours
+>>>>>>> milkshake-flavours 
 
 
+=======
+booya
+>>>>>>> history

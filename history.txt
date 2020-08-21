@@ -1,0 +1,500 @@
+   48  node task-7.js
+   49  nano task-8.js
+   50  node task-8.js
+   51  nano task-8.js
+   52  node task-8.js
+   53  nano task-10.js
+   54  node task-10.js
+   55  nano task-10.js
+   56  node task-10.js
+   57  nano task-10.js
+   58  node task-10.js
+   59  nano task-10.js
+   60  node task-10.js
+   61  clear
+   62  nano task-11.js
+   63  node task-11.js
+   64  clear
+   65  nano task-9.js
+   66  node task-9.js
+   67  nano task-9.js
+   68  node task-9.js
+   69  git status
+   70  git add .
+   71  git status
+   72  git commit -u"fixed all the code review problems"
+   73  git config --global status.showUntrackedFiles all
+   74  git status
+   75  git restore .
+   76  git status
+   77  git restore --staged .
+   78  git status
+   79  git add task-3.js
+   80  git commit -u"used return instead og console.log"
+   81  git status
+   82  git restore --staged task-3.js
+   83  git status
+   84  git add -A
+   85  git status
+   86  git commit -u"Correction have been made to code review"
+   87  nano task-1.js
+   88  nano task-2.js
+   89  git status
+   90  git add .
+   91  git status
+   92  git commit -u "Fixed all problems for code review"
+   93  git remote update
+   94  git fetch
+   95  git status
+   96  git commit -n "commited all the code review updates"
+   97  git checkout --track origin/master
+   98  checkout master
+   99  git checkout master
+  100  git status
+  101  git commit -u ""
+  102  git commit -u  "commited all the code review updates"
+  103  git log
+  104  pwd
+  105  ls
+  106  nano README.md
+  107  git status
+  108  git add .
+  109  git status
+  110  nano task-11.js
+  111  git status
+  112  git add .
+  113  git status
+  114  git commit -m  "commited all the code review updates"
+  115  git status
+  116  git push origin master
+  117  git config user.name
+  118  git config user.email
+  119  pwd
+  120  cd Desktop
+  121  mkdir Git Practice
+  122  cd Git Practice
+  123  ls
+  124  cd Git
+  125  ls
+  126  ls -la
+  127  mkdir One Two Three
+  128  cd Desktop
+  129  cd..
+  130  cd ..
+  131  mkdir One Two Three
+  132  mkdir Git-book
+  133  git init
+  134  git add *.c
+  135  git add LICENSE
+  136  git commit -m "initial project version"
+  137  clear
+  138  git status
+  139  clear
+  140  git status
+  141  git add .
+  142  cd Desktop
+  143  ls
+  144  cd bootcamp-challenges
+  145  ls
+  146  cd programming-katas
+  147  ls
+  148  Banele-Mdzanga-219-level-1-programming-katas-javascript
+  149  cd Banele-Mdzanga-219-level-1-programming-katas-javascript
+  150  ls
+  151  nano square.js
+  152  node square.js
+  153  git status
+  154  git add .
+  155  git commit -m "Draws a squre with JS"
+  156  git status
+  157  git push origin square
+  158  git checkout master
+  159  git checkout -b triangle
+  160  nano triangle
+  161  node triangle.js
+  162  ls
+  163  rm triangle
+  164  ls
+  165  nano triangle.js
+  166  node triangle.js
+  167  git status
+  168  git add .
+  169  git commit -m "Function that draws a triangle .JS"
+  170  git status
+  171  git push origin triangle
+  172  git checkout master
+  173  git checkout -b isosceles
+  174  ls
+  175  ls
+  176  nano isosceles.js
+  177  node isosceles.js
+  178  git status
+  179  git add .
+  180  git commit -m "isosceles triangle with js"
+  181  git status
+  182  git push origin isosceles
+  183  git checkout master
+  184  git checkout -b longest
+  185  nano longest.js
+  186  node longest.js
+  187  nano longest.js
+  188  node longest.js
+  189  git add .
+  190  git commit -m "Finding the longest string in an array using JS"
+  191  git status
+  192  git push origin longest
+  193  git checkout master
+  194  git checkout -b combine
+  195  nano combine.js
+  196  node combine.js
+  197  git add .
+  198  git commit -m "Function that combines two arrays in js"
+  199  git push origin combine
+  200  git checkout master
+  201  git checkout -b frame
+  202  nano frame.js
+  203  node frame.js
+  204  git add .
+  205  git commit -m "Frame for string array in J.S."
+  206  git push origin frame
+  207  git checkout master
+  208  git pull
+  209  ls
+  210  cd ..
+  211  cd ..
+  212  git clone https://github.com/Umuzi-org/Banele-Mdzanga-288-git-basic-exercises-.git
+  213  ls
+  214  cd Banele-Mdzanga-288-git-basic-exercises-
+  215  ls -la
+  216  git init
+  217  ls -la
+  218  git status
+  219  touch README.md
+  220  ls -a
+  221  git statusq
+  222  git status
+  223  ls-a
+  224  ls -a
+  225  git status
+  226  git log
+  227  git add README.md
+  228  git status
+  229  clear
+  230  git status
+  231  ls
+  232  git add README.md
+  233  git status
+  234  git add .
+  235  git add  -f README.md 
+  236  git status
+  237  nano README.md
+  238  git status
+  239  ls -la
+  240  rm README.md
+  241  ls -ls
+  242  ls -la
+  243  touch README.md
+  244  ls
+  245  ls -a
+  246  git status
+  247  git log
+  248  git add .
+  249  git status
+  250  git restore --cached README.md
+  251  git status
+  252  git restore --staged README.md
+  253  git status
+  254  git add .
+  255  git commit -m "initial commit"
+  256  git log
+  257  nano README.md
+  258  cat README.md
+  259  git status
+  260  git add .
+  261  git commit "second commit"
+  262  git status
+  263  git commit -m "second commit"
+  264  git status
+  265  nano README.md
+  266  git add README.md
+  267  git commit -m "third commit"
+  268  git log
+  269  git checkout 97d4b34a56648fe2f9bf348857b2787892b276c2
+  270  cat README.md
+  271  git checkout master
+  272  cat README.md
+  273  git branch
+  274  git branch milkshake-flavours
+  275  git branch
+  276  git checkout milkshake-flavours
+  277  git branch
+  278  nano milkshakes.md
+  279  git satus
+  280  git status
+  281  git add .
+  282  git commit -m "added initial flavours"
+  283  git log
+  284  history > history.txt
+  285  ls
+  286  git add .
+  287  git commit -m "added history"
+  288  git log
+  289  git rm c7fdb84a69992fbe8f4b91129804c384ee9b1c1f
+  290  clear
+  291  git rm history.txt
+  292  ls
+  293  git log
+  294  git checkout master
+  295  git branch history
+  296  git checkout history
+  297  git log
+  298  history > history.txt
+  299  git add .
+  300  git commit --amend
+  301  git log
+  302  git status
+  303  cd Desktop
+  304  cd bootcamp-challenges
+  305  git clone https://github.com/Umuzi-org/Banele-Mdzanga-288-git-basic-exercises-.git
+  306  ls
+  307  cd Desktop
+  308  ls -a
+  309  cd bootcamp-challenges
+  310  ls
+  311  programing-katas
+  312  cd programming katas
+  313  cd programming-katas
+  314  ls
+  315  Banele-Mdzanga-219-level-1-programming-katas-javascript
+  316  cd Banele-Mdzanga-219-level-1-programming-katas-javascript
+  317  git checkout hello
+  318  ls
+  319  nano hello.js
+  320  git status
+  321  git add .
+  322  git status
+  323  git commit -m "function that return hello and name in J.S"
+  324  git push origin hello
+  325  git push origin hello "Function that returns hello and name in J.S"
+  326  git push origin hello
+  327  git checkout master
+  328  cd ..
+  329  cd ../..
+  330  cd pre-bootcamp-challenges
+  331  nano task-3.js
+  332  node task-3.js
+  333  nano task-3.js
+  334  nano task-4.js
+  335  node task-4.js
+  336  nano task-9.js
+  337  node task-9.js
+  338  git status
+  339  git add .
+  340  git status
+  341  git commit -u "Fixes after second code review"
+  342  git commit -m "Fixes after second code review"
+  343  git status
+  344  git push 
+  345  ls
+  346  cd ..
+  347  ls
+  348  cd Umuzi
+  349  ls
+  350  cd git-basic-exercises
+  351  checkout master
+  352  git checkout master
+  353  git branch
+  354  git push
+  355  git checkout history
+  356  git status
+  357  git push origin history
+  358  git checkout milkshake-flavours
+  359  git status
+  360  git push origin milkshake-flavours
+  361  git checkout master
+  362  ls
+  363  git checkout history
+  364  ls
+  365  git checkout milkshake-flavours
+  366  ls
+  367  git log
+  368  git log s
+  369  gitt log -s
+  370  git log -s
+  371  clear
+  372  ls
+  373  cd ../..
+  374  ls
+  375  cd bootcamp-challenges
+  376  ls
+  377  git clone https://github.com/Umuzi-org/Banele-Mdzanga-429-bootcamp-writing-assignment-.git
+  378  ls
+  379  cd Banele-Mdzanga-429-bootcamp-writing-assignment-
+  380  ls
+  381  git status
+  382  cd Desktop
+  383  cd bootcampt-challenges
+  384  ls
+  385  cd bootcamp-challenges
+  386  ls
+  387  cd programming-katas
+  388  ls
+  389  cd Banele-Mdzanga-219-leve-1-promming-katas-javascript
+  390  cd Banele-Mdzanga-219-level-1-programming-katas-javascript
+  391  cd hello
+  392  git checkout hello
+  393  ls
+  394  git log
+  395  git revert b63e27ca2186826d3d1ba83d4689e60482713c37 
+  396  git log
+  397  git reflog
+  398  clear
+  399  git log
+  400  git push 
+  401  git reset --hard b63e27ca2186826d3d1ba83d4689e60482713c37 
+  402  git push -f origin hello
+  403  git checkout master
+  404  git push origin --delete hello
+  405  git fetch -p
+  406  git branch
+  407  git checkout -b hello
+  408  git branch -D hello
+  409  branch
+  410  git branch
+  411  git checkout -b hello
+  412  nano hello.js
+  413  ls
+  414  git status
+  415  git add
+  416  git add .
+  417  git commit -m "hello function in JS"
+  418  git status
+  419  git push origin hello
+  420  node hello
+  421  git checkout master
+  422  git pull
+  423  clear
+  424  git pull
+  425  ls
+  426  nano isosceles
+  427  cat isosceles.js
+  428  node isosceles.js
+  429  ls
+  430  node longest.js
+  431  cd Desktop
+  432  cd bootcamp-challenges
+  433  ls
+  434  cd Banele-Mdzanga-429-bootcamp-writing-assignment-
+  435  clear
+  436  nano My-history.md
+  437  ls
+  438  touch My-history.md
+  439  ls
+  440  nano My-history.ms
+  441  ls
+  442  rm My-history.ms
+  443  nano My-history.md
+  444  ls
+  445  git status
+  446  git add .
+  447  git commit -m "my history"
+  448  git push origin bootcamp-writing-exercises
+  449  touch Why-I-want-to-code
+  450  ls
+  451  rm Why-I-want-to-code
+  452  nano Why-I-want-to-code.md
+  453  ls
+  454  git status
+  455  git add .
+  456  git commit -m "Why i want to code"
+  457  git push origin bootcamp-writing-exercises
+  458  git nano My-free-time.md
+  459  nano My-free-time.md
+  460  git add .
+  461  git commit -m "My free time"
+  462  git push origin bootcamp-writing-exercises
+  463  git status
+  464  ls
+  465  git nano Relevent-experience.md
+  466  nano Relevent-experience.md
+  467  git status
+  468  git add .
+  469  git commit -m "Releven work experience"
+  470  git status
+  471  git push origin bootcamp-writing-exercises
+  472  git push origin bootcamp-writing-exercises
+  473  nano What-will-make-me-succeed-as-a-coder.md
+  474  git status
+  475  git add .
+  476  ls
+  477  git commit -m "What will make me succeed as a coder"
+  478  git push origin bootcamp-writing-exercises
+  479  git ls
+  480  ls
+  481  nano What-might-get-in-my-way.md
+  482  git status
+  483  git add .
+  484  git commit -m "What might get in my way of becoming a coder"
+  485  git push origin bootcamp-writing-exercises
+  486  git status
+  487  ls
+  488  nano My-routine.md
+  489  git add .
+  490  git commit -m "My routine"
+  491  git push origin bootcamp-writing-exercises
+  492  git status
+  493  ls
+  494  nano My-future.md
+  495  git add .
+  496  git commit -m "My-future-plans"
+  497  git push origin bootcamp-writing-exercises
+  498  cd Desktop
+  499  cd Umuzi
+  500  ls
+  501  cd git-basic-exercises
+  502  ls
+  503  clear
+  504  ls-a
+  505  ls -a
+  506  git init
+  507  ls -a
+  508  git status
+  509  touch README.md
+  510  ls -a
+  511  git status
+  512  git log
+  513  git add .
+  514  git status 
+  515  git rm --staged README.md
+  516  git status
+  517  git commit -m "initial commit"
+  518  git log
+  519  clear
+  520  nano README.md
+  521  cat README.md
+  522  git status
+  523  git add .
+  524  git commit -m "second commit"
+  525  nano README.md
+  526  git add .
+  527  git commit -m "third commit"
+  528  git log
+  529  git checkout 9022f750b59eb0e66dece82aaf4296a6df899005
+  530  cat README.md
+  531  git branch
+  532  git branch milkshake-flavours
+  533  git branch
+  534  git checkout milkshake-flavours
+  535  git branch
+  536  nano milkshakes.md
+  537  git status
+  538  git add .
+  539  git commit -m "added initial flavours"
+  540  git log
+  541  git checkout master
+  542  git status
+  543  ls
+  544  git branch history
+  545  git checkout history
+  546  git log
+  547  history > history.txt
